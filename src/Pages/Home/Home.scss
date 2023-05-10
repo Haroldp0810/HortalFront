@@ -1,0 +1,12 @@
+.background {
+    background-image: url('../../Assets/Images/background.jpeg');
+    background-size: cover;
+    opacity: 70%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
